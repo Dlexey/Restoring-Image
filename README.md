@@ -8,7 +8,7 @@ Also there should be a file color_mask.jpg (a photo of a smaller resolution, fro
 The boundaries of the recoverable areas are written in the bounds.txt file in the following format:
 
 
-217,645:233,689
+217,645:233,689\n
 234,643:296,692
 296,646:358,689
 359,645:375,689
