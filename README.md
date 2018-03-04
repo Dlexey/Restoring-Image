@@ -9,7 +9,6 @@ The boundaries of the recoverable areas are written in the bounds.txt file in th
 
 
 217,645:233,689
-
 234,643:296,692
 296,646:358,689
 359,645:375,689
