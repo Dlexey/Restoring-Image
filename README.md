@@ -25,4 +25,4 @@ The boundaries of the recoverable areas are written in the bounds.txt file in th
 where for the top line 217,645 - the coordinates of the upper left corner of the first section, through the colon 233,689 - the coordinates of the lower right corner of the section. And on the next lines the coordinates of the following sections.
 
 
-After the program has run, a file called out.png with the restored image will appear in the folder.
+After the program has run, a file called out.png with the restored image will appear in the folder. 
